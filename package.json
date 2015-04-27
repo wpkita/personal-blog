@@ -1,5 +1,5 @@
 {
-  "name": "hexo-site",
+  "name": "wpkita-blog",
   "version": "0.0.0",
   "private": true,
   "hexo": {
@@ -15,5 +15,9 @@
     "hexo-renderer-stylus": "^0.2.0",
     "hexo-renderer-marked": "^0.2.4",
     "hexo-server": "^0.1.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-aws": "^0.5.0"
   }
 }
